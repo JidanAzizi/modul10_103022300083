@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Modul_4\\modul10_103022300083\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221B5D32-0E87-4563-AD9A-62D4763F0E32}|modul10_103022300083.csproj|d:\\modul_4\\modul10_103022300083\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221B5D32-0E87-4563-AD9A-62D4763F0E32}|modul10_103022300083.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221B5D32-0E87-4563-AD9A-62D4763F0E32}|modul10_103022300083.csproj|d:\\modul_4\\modul10_103022300083\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221B5D32-0E87-4563-AD9A-62D4763F0E32}|modul10_103022300083.csproj|solutionrelative:movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "D:\\Modul_4\\modul10_103022300083\\Movies.cs",
+              "RelativeDocumentMoniker": "Movies.cs",
+              "ToolTip": "D:\\Modul_4\\modul10_103022300083\\Movies.cs",
+              "RelativeToolTip": "Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:53:11.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Modul_4\\modul10_103022300083\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Modul_4\\modul10_103022300083\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:52:50.696Z",
+              "EditorCaption": ""
             }
           ]
         }
